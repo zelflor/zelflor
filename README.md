@@ -1,4 +1,4 @@
-<h3 align="center">About me:</h3>
+##About me
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zelflor&label=Profile%20views&color=0e75b6&style=flat" alt="zelflor" /> </p>
 
