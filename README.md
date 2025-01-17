@@ -6,3 +6,5 @@
 
 ## Projects : 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zelflor&repo=zelflor)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/zelflor/zelflor))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zelflor&repo=Authon-lang)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/zelflor/Authon-lang))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zelflor&repo=CryFall)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/zelflor/CryFall))
