@@ -9,7 +9,7 @@
 ![Frame 954](Frame%20954.png)
 
 ### UnderScape
-*Studio de developpeur de software fonctionnant par groupe*
+*Studio de developpement de software fonctionnant par groupe*
 
 ### FireFly
 *Réseau social ayant pour mission de créer de véritables groupes de potes*
