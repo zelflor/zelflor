@@ -23,3 +23,8 @@
 *Concept Character sheet of Nairukki — logo © zelflor 2025*
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zelflor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+---
+
+Je suis plutôt de Gauche, LGBT friendly et respectueux des choix alimentaires (flexitarien/vegetarien).  
+Tu as un problème ? Viens débattre avec moi ! 👉 [Discord](https://discord.gg/JsJfNt8j6G)
