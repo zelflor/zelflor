@@ -18,7 +18,7 @@
 
 ## Nairukki
 
-![Frame 953](Frame%20953.png)
+![Concept character sheet of nairukki by zelflor](nairukki_zelflor_concept.png)
 
 *Concept Character sheet of Nairukki © zelflor 2025*
 
